@@ -11,7 +11,7 @@ This project teaches you how to:
 * Generate a pure sine wave (440 Hz)
 * Understand sampling rate and duration
 * Visualize full and zoomed time-domain signals
-* Apply FFT to analyze frequency content
+* Apply FFT (Fast Fourier transform) to analyze frequency content
 * Understand sampling theory & aliasing
 * Convert float samples to int16 PCM
 * Save audio as a real WAV file
